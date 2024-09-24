@@ -13,6 +13,12 @@ Developed a Rock-Paper-Scissors game with a GUI using Tkinter in Python. Players
 <br><br>
  This project is a Flask-based web application for note-taking, featuring user authentication (login, signup, logout) and CRUD operations (create, read, update, delete) for notes. It utilizes SQLAlchemy for database management and includes responsive front-end design with Bootstrap. 
 
+<h1> 4. ChartBlast from the Past</h1>
+<b>Technologies Used:</b>  Python, Flask, BeautifulSoup, Spotipy, HTML, CSS, JavaScript
+<br><br>
+<p>Creates Spotify playlists based on Billboard’s historical top 100, offering a blast of nostalgic tunes.Utilizes web scraping and Spotify API integration for seamless playlist creation and user experience.
+</p>
+
 <h1> 5.	Movie Recommendation System :</h1>
 <b>Technologies Used:</b> Python, Streamlit, TMDb API, Machine Learning (Cosine Similarity)
 <br><br>
